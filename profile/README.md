@@ -1,4 +1,8 @@
-# Socials
+# Contact us
+
+Email: <info@levafoundation.org>
+
+## Socials
 
 [![](/images/facebook.png)](https://www.facebook.com/GamesTangibl/)
 [![](/images/instagram.png)](https://www.instagram.com/tanks_coding/)
